@@ -21,7 +21,6 @@ public class Node extends BasicDBObject {
 	
 	/**
 	 * The class representing the Coordinates.
-	 * @author Davide Cattarin
 	 *
 	 */
 	public class Coordinates extends BasicDBObject{
