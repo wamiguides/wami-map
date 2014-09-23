@@ -1,0 +1,10 @@
+
+wamimap-mongo-deploy/bin/it/wami/map/mongodeploy/collections/Node.class
+
+wamimap-mongo-deploy/bin/it/wami/map/mongodeploy/collections/Node$Coordinates.class
+
+wamimap-mongo-deploy/bin/it/wami/map/mongodeploy/collections/Relation.class
+
+wamimap-mongo-deploy/bin/it/wami/map/mongodeploy/collections/Way.class
+
+*.class
